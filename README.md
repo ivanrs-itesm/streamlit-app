@@ -8,6 +8,6 @@
         python3 -m pip install -r requirements.txt
         python3 -m streamlit run app.py --server.port 80
 
-3. Run app continously
+3. Run app continuously
 
         nohup python3 -m streamlit run app.py --server.port 80
